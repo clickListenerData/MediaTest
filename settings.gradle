@@ -1,0 +1,5 @@
+include ':ScreenLive'
+include ':SurfaceCodec'
+include ':projectclient'
+include ':app'
+rootProject.name = "MediaProject"
